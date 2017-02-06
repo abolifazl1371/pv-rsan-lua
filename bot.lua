@@ -1,4 +1,4 @@
-package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
+318199206:AAGRgMbx_TTSNaRH2-IJbCKci5CPHDEKZWopackage.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
   ..';.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 URL = require('socket.url')
@@ -6,8 +6,8 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
 ----config----
-local bot_api_key = "" --BOT TOKEN تو کن ربات خود را در اینجا قرار دهید
-local You = 188548712  --ID ADMIN ایدی خود را اینجا قرار دهید
+local bot_api_key = "" --318199206:AAGRgMbx_TTSNaRH2-IJbCKci5CPHDEKZWoBOT TOKEN تو کن ربات خود را در اینجا قرار دهید
+local You = 188548712  --251633180 ADMIN ایدی خود را اینجا قرار دهید
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
 local start = [[ ]]
